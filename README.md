@@ -28,13 +28,13 @@ We encourage our community to start and engage in discussions about topics relat
 
 | Category | Purpose |
 |----------|---------|
-| 📣 Announcements | ADP staff share important updates, release notes, and community news. |
-| ✏️ Documentation | Feedback or ideas about content, guides, templates, and style guides. |
-| 🛠️ Tooling & Code | Discussion about ADP tooling, scripts, automation, and integration. |
-| 🎨 UX & Design | Suggestions for improving documentation layout, design, and readability. |
-| 🌐 Localization | Questions or updates about translations and internationalization of ADP content. |
-| 🤖 Community Feedback | General feedback, feature requests, or questions that don't fit other categories. |
-| 📊 Polls | Reserved for ADP staff to collect input from the community. |
+| 📣 [Announcements](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/announcements) | ADP staff share important updates, release notes, and community news. |
+| ✏️ [Documentation](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/documentation) | Feedback or ideas about content, guides, templates, and style guides. |
+| 🛠️ [Tooling](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/tooling) | Discussion about ADP tooling, scripts, automation, and integration. |
+| 🎨 [UX & Design](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/ux-design) | Suggestions for improving documentation layout, design, and readability. |
+| 🌐 [Localization](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/localization) | Questions or updates about translations and internationalization of ADP content. |
+| 🤖 [Community Feedback](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/community-feedback) | General feedback, feature requests, or questions that don't fit other categories. |
+| 📊 [Polls](https://github.com/orgs/The-AI-Docs-Project/discussions/categories/polls) | Reserved for ADP staff to collect input from the community. |
 
 > **Tip:** Before starting a discussion, choose the category that best fits your topic. This keeps the forum organized and helps others find relevant conversations.
 
